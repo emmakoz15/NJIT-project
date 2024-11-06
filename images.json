@@ -1,82 +1,105 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/image1.jpg",
+            "imgLocation": "Olympus Mons",
+            "Coordinates": "18.65° N, 226.2° E",
+            "description": "Solstice Suites"
+
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/image2.jpg",
+            "imgLocation": "Valles Marineris",
+            "Coordinates": "14.2° S, 276.0° E",
+            "description": "The Nexus Library"
+
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/image3.jpg",
+            "imgLocation": "Gale Crater",
+            "Coordinates": "5.4° S, 137.8° E",
+            "description": "The Martian Grill"
+
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/image4.jpg",
+            "imgLocation": "Hellas Planitia",
+            "Coordinates": "42.0° S, 70.0° E",
+            "description": "Red Horizon Hall"
+
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/image5.jpg",
+            "imgLocation": "Arcadia Planitia",
+            "Coordinates": "50.0° N, 210.0° E",
+            "description": "The Crater Complex"
+
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/image6.jpg",
+            "imgLocation": "Noctis Labyrinthus",
+            "Coordinates": "7.0° S, 265.0° E",
+            "description": "The Horizon Observatory"
+
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/image7.jpg",
+            "imgLocation": "Olympus Mons",
+            "Coordinates": "18.65° N, 226.2° E",
+            "description": "Dorm Room on Campus"
+
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/image8.jpg",
+            "imgLocation": "Olympus Mons",
+            "Coordinates": "18.65° N, 226.2° E",
+            "description": "Dorm Room on Campus"
+
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/image9.jpg",
+            "imgLocation": "Olympus Mons",
+            "Coordinates": "18.65° N, 226.2° E",
+            "description": "Dorm Room on Campus"
+
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/image10.jpg",
+            "imgLocation": "Olympus Mons",
+            "Coordinates": "18.65° N, 226.2° E",
+            "description": "Dorm Room on Campus"
+
         }
-  ]
+    ]
 }
+
+1. Olympus Mons
+Coordinates: 18.65° N, 226.2° E
+The largest volcano and the tallest planetary mountain in the solar system, towering at about 22 km (13.6 miles) high.
+2. Valles Marineris
+Coordinates: 14.2° S, 276.0° E
+The largest canyon system on Mars, stretching over 4,000 km (2,500 miles) long and up to 7 km (4.3 miles) deep.
+3. Gale Crater (Curiosity Rover Landing Site)
+Coordinates: 5.4° S, 137.8° E
+A large crater where NASA's Curiosity rover landed in 2012, and it's famous for its complex geology and ancient lakebed.
+4. Hellas Planitia
+Coordinates: 42.0° S, 70.0° E
+A massive impact basin, one of the largest and deepest on Mars, measuring about 2,300 km (1,400 miles) in diameter and 7 km (4.3 miles) deep.
+5. Arcadia Planitia
+Coordinates: 50.0° N, 210.0° E
+A large plains area that is home to various tectonic features and is thought to have hosted ancient ice deposits.
+6. Noctis Labyrinthus
+Coordinates: 7.0° S, 265.0° E
+A vast and complex system of deep, interwoven valleys, often referred to as the "Labyrinth of the Night," located near the western edge of Valles Marineris.
+7. Elysium Planitia
+Coordinates: 2.0° N, 154.0° E
+A large volcanic region on Mars that includes the Elysium Mons volcano and is home to significant geothermal activity.
+8. Cydonia Region (Face on Mars)
+Coordinates: 40.8° N, 9.6° W
+A famous region where the "Face on Mars" was discovered in the 1970s by NASA’s Viking Orbiter. The "face" is now thought to be a natural rock formation.
+9. Utopia Planitia
+Coordinates: 45.0° N, 105.0° E
+A large, ancient impact basin in the northern hemisphere of Mars, believed to have once been a site of large-scale glaciation.
+10. Schwabe Crater
+Coordinates: 3.1° S, 148.1° E
+A smaller but interesting impact crater located in the Elysium region, with complex geological features, likely due to ancient volcanic activity.
